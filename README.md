@@ -1,4 +1,4 @@
-# Programming Tutorials from the "Fullstack Vue" Book
+# Programming Tutorials from the "Fullstack Vue, The Complete Guide to Vue.js" Book
 
 ## Setup
 
